@@ -1,0 +1,11 @@
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Release\number_winder.exe.config
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Release\number_winder.exe
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Release\number_winder.pdb
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Release\number_winder.xml
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Release\number_winder.Form1.resources
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Release\number_winder.Resources.resources
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Release\number_winder.vbproj.GenerateResource.cache
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Release\number_winder.vbproj.CoreCompileInputs.cache
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Release\number_winder.exe
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Release\number_winder.xml
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Release\number_winder.pdb

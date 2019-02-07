@@ -1,0 +1,12 @@
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Debug\number_winder.exe.config
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Debug\number_winder.exe
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Debug\number_winder.pdb
+C:\Users\yuuki\source\repos\number_winder\number_winder\bin\Debug\number_winder.xml
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.vbprojAssemblyReference.cache
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.Form1.resources
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.Resources.resources
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.vbproj.GenerateResource.cache
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.vbproj.CoreCompileInputs.cache
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.exe
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.xml
+C:\Users\yuuki\source\repos\number_winder\number_winder\obj\Debug\number_winder.pdb
